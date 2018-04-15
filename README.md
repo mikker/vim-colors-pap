@@ -1,8 +1,8 @@
 <h1 align='center'>pap</h1>
 
 <p align='center'>
-  <img src='https://cdn.rawgit.com/mikker/vim-colors-pap/378c77f5/screenshots/light.png' alt='Light' width='40%' />
-  <img src='https://cdn.rawgit.com/mikker/vim-colors-pap/378c77f5/screenshots/dark.png' alt='Light' width='40%' />
+  <img src='https://cdn.rawgit.com/mikker/vim-colors-pap/378c77f5/screenshots/light.png' alt='Light' width='48%' />
+  <img src='https://cdn.rawgit.com/mikker/vim-colors-pap/378c77f5/screenshots/dark.png' alt='Light' width='48%' />
 </p>
 
 <p align='center'>A modest light/dark colorscheme for vim</p>
